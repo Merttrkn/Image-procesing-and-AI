@@ -1,0 +1,118 @@
+{
+    "font_path" : "C:\\Users\\Mert\\Desktop\\yolo\\html\\Usta_GM_03_Font_final_to_gm_model.ttf",
+    "combinations": [
+      {
+        "patch_count_group1": 5,
+        "patch_count_group2": 3,
+        "percentage": 27,
+        "fixed_zeros_bg_color": "black",
+        "fixed_zeros_digit_color": "white",
+        "bg_color_group1": "black",
+        "digit_color_group1": "white",
+        "bg_color_group2": "red",
+        "digit_color_group2": "white",
+        "gap_color": "black",
+        "gap": 5,
+        "label": false
+      },
+      {
+        "patch_count_group1": 5,
+        "patch_count_group2": 0,
+        "percentage": 38,
+        "fixed_zeros_bg_color": "white",
+        "fixed_zeros_digit_color": "black",
+        "bg_color_group1": "white",
+        "digit_color_group1": "black",
+        "bg_color_group2": "white",
+        "digit_color_group2": "red",
+        "gap_color": "#dcdcdc",
+        "gap": 5,
+        "label": false
+      },
+      {
+        "patch_count_group1": 4,
+        "patch_count_group2": 0,
+        "percentage": 15,
+        "fixed_zeros_bg_color": "white",
+        "fixed_zeros_digit_color": "black",
+        "bg_color_group1": "white",
+        "digit_color_group1": "black",
+        "bg_color_group2": "white",
+        "digit_color_group2": "red",
+        "gap_color": "#dcdcdc",
+        "gap": 5,
+        "label": false
+      },
+      {
+        "patch_count_group1": 4,
+        "patch_count_group2": 3,
+        "percentage": 10,
+        "fixed_zeros_bg_color": "black",
+        "fixed_zeros_digit_color": "white",
+        "bg_color_group1": "black",
+        "digit_color_group1": "white",
+        "bg_color_group2": "red",
+        "digit_color_group2": "white",
+        "gap_color": "black",
+        "gap": 5,
+        "label": false
+      },
+      {
+        "patch_count_group1": 7,
+        "patch_count_group2": 0,
+        "percentage": 3,
+        "fixed_zeros_bg_color": "black",
+        "fixed_zeros_digit_color": "white",
+        "bg_color_group1": "black",
+        "digit_color_group1": "white",
+        "bg_color_group2": "white",
+        "digit_color_group2": "red",
+        "gap_color": "black",
+        "gap": 5,
+        "label": false
+        
+      },
+      {
+        "patch_count_group1": 6,
+        "patch_count_group2": 0,
+        "percentage": 1,
+        "fixed_zeros_bg_color": "black",
+        "fixed_zeros_digit_color": "white",
+        "bg_color_group1": "black",
+        "digit_color_group1": "white",
+        "bg_color_group2": "white",
+        "digit_color_group2": "red",
+        "gap_color": "black",
+        "gap": 5,
+        "label": false
+      },
+      {
+        "patch_count_group1": 4,
+        "patch_count_group2": 1,
+        "percentage": 1,
+        "fixed_zeros_bg_color": "white",
+        "fixed_zeros_digit_color": "black",
+        "bg_color_group1": "white",
+        "digit_color_group1": "black",
+        "bg_color_group2": "white",
+        "digit_color_group2": "red",
+        "gap_color": "#dcdcdc",
+        "gap": 5,
+        "label": false
+      },
+      {
+        "patch_count_group1": 5,
+        "patch_count_group2": 1,
+        "percentage": 5,
+        "fixed_zeros_bg_color": "white",
+        "fixed_zeros_digit_color": "black",
+        "bg_color_group1": "white",
+        "digit_color_group1": "black",
+        "bg_color_group2": "red",
+        "digit_color_group2": "white",
+        "gap_color": "#dcdcdc",
+        "gap": 5,
+        "label": false
+      }
+    ]
+  }
